@@ -3,6 +3,7 @@ package first;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+
 public class ResultTest {
 	@Test
 	public void testPass()
